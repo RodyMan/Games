@@ -1,7 +1,7 @@
 body {
     margin: 0rem;
     padding: 0rem;
-    background-image:url(NFT.jpg);
+    background-image:url(halloween.jpg);
   }
   html{
       font-size: 10px;
@@ -17,7 +17,7 @@ body {
       top: -30px;
       right: 0.2rem;
       border-radius: 1rem;
-      background-color:white;
+      background-color:rgb(255, 204, 69);
       outline: none;
       font-size: medium;
       margin-bottom: 1rem;
@@ -26,7 +26,7 @@ body {
       transition: color 0.30s ease-in-out;
   }
   .ParkourClimb:hover{
-      background-color:red;
+      background-color:rgb(255, 204, 69);
       color:white;
       border: 1px solid black;
       border-radius: 2rem;
@@ -47,7 +47,7 @@ body {
       transition: color 0.30s ease-in-out;
   }
   .ZombieRoad:hover{
-      background-color:red;
+    background-color:rgb(255, 204, 69);
       color:white;
       border: 1px solid black;
       border-radius: 2rem;
@@ -68,7 +68,7 @@ body {
     transition: color 0.30s ease-in-out;
 }
 .RiskyWay:hover{
-    background-color:red;
+    background-color:rgb(255, 204, 69);
     color:white;
     border: 1px solid black;
     border-radius: 2rem;
@@ -87,7 +87,8 @@ body {
       position: absolute;
       padding: 10rem 10rem;
       box-sizing: border-box;
-      background: rgba(0, 0, 0, 0.8);
+      border: 3px solid rgb(255, 213, 0);
+      background: rgb(204, 135, 44,0.5);
       transform: translate(-50%, -50%);
       top: 50%;
       left: 50%;
